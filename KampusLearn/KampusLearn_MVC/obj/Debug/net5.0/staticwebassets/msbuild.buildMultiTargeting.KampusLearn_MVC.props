@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KampusLearn_MVC.props" />
+</Project>

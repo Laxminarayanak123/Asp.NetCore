@@ -1,0 +1,14 @@
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache

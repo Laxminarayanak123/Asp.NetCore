@@ -1,0 +1,10 @@
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\obj\Debug\netcoreapp3.1\Assignment.csproj.AssemblyReference.cache
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\obj\Debug\netcoreapp3.1\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\SUV_TESTS\obj\Debug\netcoreapp3.1\Assignment.pdb

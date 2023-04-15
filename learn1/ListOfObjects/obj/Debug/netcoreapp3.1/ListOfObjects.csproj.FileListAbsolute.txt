@@ -1,0 +1,14 @@
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.exe
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.deps.json
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.runtimeconfig.json
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.runtimeconfig.dev.json
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\bin\Debug\netcoreapp3.1\ListOfObjects.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.csproj.AssemblyReference.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.AssemblyInfoInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.AssemblyInfo.cs
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\ListOfObjects\obj\Debug\netcoreapp3.1\ListOfObjects.genruntimeconfig.cache

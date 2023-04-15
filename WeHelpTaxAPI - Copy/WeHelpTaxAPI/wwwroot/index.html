@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script src="jquery/jquery.js"></script>
+
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $.ajax({
+                Type: 'GET',
+                url: 'api/Employee',
+                success: function (data) {
+                    $.each(data, function (index, val) {
+                        var row = "<tr><td>" + val.id + "</td><td>" + val.firstName + "</td><td>" + val.lastName + "</td><td>" + val.email + "</td><td>" + val.phoneNumber + "</td><td>" + val.hireDate + "</td><td>" + val.dateOfBirth + "</td><td>" + val.departmentId + "</td><td>" + val.department + "</td></tr>";
+                        $("#tblEmployee").append(row);
+                    });
+                }
+            });
+        });
+
+    </script>
+</head>
+<body style="background-color:wheat">
+    <h1 class="alert alert-primary">Employee Details</h1>
+
+    <table class="table table-bordered w-50" id="tblEmployee"style="background-color:black;margin-top:100px;margin-left:100px;color:white">
+        <tr>
+            <th>Employee Id</th>
+            <th>First_Name</th>
+            <th>Last_Name</th>
+            <th>Email</th>
+            <th>Phone_Number</th>
+            <th>Hire_Date</th>
+            <th>Date_Of_Birth</th>
+            <th>DepartmentId</th>
+            <th>Department</th>
+        </tr>
+    </table>
+</body>
+</html>

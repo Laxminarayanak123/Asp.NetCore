@@ -1,0 +1,10 @@
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\bin\Debug\netcoreapp3.1\Prime.Services.deps.json
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\bin\Debug\netcoreapp3.1\Prime.Services.dll
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\bin\Debug\netcoreapp3.1\Prime.Services.pdb
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\obj\Debug\netcoreapp3.1\Prime.Services.csproj.AssemblyReference.cache
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\obj\Debug\netcoreapp3.1\Prime.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\obj\Debug\netcoreapp3.1\Prime.Services.AssemblyInfoInputs.cache
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\obj\Debug\netcoreapp3.1\Prime.Services.AssemblyInfo.cs
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\obj\Debug\netcoreapp3.1\Prime.Services.csproj.CoreCompileInputs.cache
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\obj\Debug\netcoreapp3.1\Prime.Services.dll
+C:\Users\ramana\Desktop\csharp learn\Prime.Services\Prime.Services\obj\Debug\netcoreapp3.1\Prime.Services.pdb

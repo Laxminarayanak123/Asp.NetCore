@@ -1,0 +1,14 @@
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.exe
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.deps.json
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.runtimeconfig.json
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.runtimeconfig.dev.json
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\bin\Debug\netcoreapp3.1\WeddingPlanner.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.csproj.AssemblyReference.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.AssemblyInfoInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.AssemblyInfo.cs
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.csproj.CoreCompileInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\WeddingPlanner\obj\Debug\netcoreapp3.1\WeddingPlanner.genruntimeconfig.cache

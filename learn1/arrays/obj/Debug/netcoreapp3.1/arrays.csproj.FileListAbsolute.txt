@@ -1,0 +1,14 @@
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\bin\Debug\netcoreapp3.1\arrays.exe
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\bin\Debug\netcoreapp3.1\arrays.deps.json
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.json
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\bin\Debug\netcoreapp3.1\arrays.runtimeconfig.dev.json
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\bin\Debug\netcoreapp3.1\arrays.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\bin\Debug\netcoreapp3.1\arrays.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\obj\Debug\netcoreapp3.1\arrays.csproj.AssemblyReference.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\obj\Debug\netcoreapp3.1\arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfoInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\obj\Debug\netcoreapp3.1\arrays.AssemblyInfo.cs
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\obj\Debug\netcoreapp3.1\arrays.csproj.CoreCompileInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\obj\Debug\netcoreapp3.1\arrays.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\obj\Debug\netcoreapp3.1\arrays.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\arrays\obj\Debug\netcoreapp3.1\arrays.genruntimeconfig.cache

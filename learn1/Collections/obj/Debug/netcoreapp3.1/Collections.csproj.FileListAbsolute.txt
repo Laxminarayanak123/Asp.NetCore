@@ -1,0 +1,14 @@
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.AssemblyReference.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\obj\Debug\netcoreapp3.1\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\ramana\Desktop\csharp learn\learn1\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
